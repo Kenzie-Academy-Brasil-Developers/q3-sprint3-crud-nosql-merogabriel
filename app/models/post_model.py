@@ -1,7 +1,6 @@
 from typing import Union
 import pymongo
 
-from bson.objectid import ObjectId
 import datetime as dt
 from pymongo import ReturnDocument
 
